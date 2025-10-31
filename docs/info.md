@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-A single AND gate
+A single AND gate.
 
 ## How to test
 
@@ -17,4 +17,4 @@ Try every combination of two bits.
 
 ## External hardware
 
-A single LED
+A single LED.
